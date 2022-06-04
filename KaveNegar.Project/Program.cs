@@ -1,4 +1,5 @@
-﻿using System;
+﻿using KaveNegar.Infrastructure;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,7 @@ namespace KaveNegar.Project
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
